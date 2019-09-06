@@ -4,7 +4,7 @@
   "description": "Langding page for natours",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass Natours/sass/main.scss Natours/css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,9 @@
     "url": "https://github.com/truongnmt/advance-css/issues"
   },
   "homepage": "https://github.com/truongnmt/advance-css#readme",
-  "dependencies": {},
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
   "devDependencies": {
     "node-sass": "^4.12.0"
   }
