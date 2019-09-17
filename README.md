@@ -9,3 +9,8 @@ Project 1: [Natour](https://truongnmt.github.io/advance-css/Natours/index.html)
 - skew
 - manipulate pseudo class
 - bem sass
+- rotating card
+- perspective in CSS
+- backface-visibility
+- background blend modes
+- box-decoration-break
