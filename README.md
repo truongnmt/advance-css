@@ -14,3 +14,4 @@ Project 1: [Natour](https://truongnmt.github.io/advance-css/Natours/index.html)
 - backface-visibility
 - background blend modes
 - box-decoration-break
+- make text wrap in circle, skewX entire div then using direct selector to skewX all agains
