@@ -14,4 +14,8 @@ Project 1: [Natour](https://truongnmt.github.io/advance-css/Natours/index.html)
 - backface-visibility
 - background blend modes
 - box-decoration-break
-- make text wrap in circle, skewX entire div then using direct selector to skewX all agains
+- make text wrap in circle, skewX entire div then using direct selector to skewX all against it
+- 3c9bbfe Navigation part - burger icon (3 line menu icon) by html span and psuedo css, tweak animation on click
+- 6660d78 Navigation part - click menu (which actually is a checkbox), scale background size, tweak nav list opacity
+- ee03958 Navigation part - full screen modal only css, background-image radial-gradient, background-image color at breakpoint, tweak background position on hover
+- 
